@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 16.5, 37.25" name="spurious">
+  <DataContextMoniker Name="/spuriousDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7981b332-9f38-4a3d-b628-b6412ca4c2be" absoluteBounds="5, 4.375, 2, 4.8477197265625">
+      <DataClassMoniker Name="/spuriousDataContext/spawns_creature" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c49bc484-1066-4a3e-b2c8-25745e25f273" absoluteBounds="5.015, 4.835, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4941c49b-05b0-46b9-9eda-981b27559265" absoluteBounds="7.25, 4.375, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/spuriousDataContext/gameobject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f16df8d-2801-4f22-afad-6cc76612cdd1" absoluteBounds="7.265, 4.835, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7ef0d2d-10e8-4693-a017-8e960aa4cdb5" absoluteBounds="9.5, 4.375, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/spuriousDataContext/spawns_gameobject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="068088c6-d37c-46e8-a41b-eab50d5f3a33" absoluteBounds="9.515, 4.835, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="63a41dc2-9fdb-487f-a5b9-63bba8853a9c" absoluteBounds="0.5, 4.375, 2, 27.346987304687502">
+      <DataClassMoniker Name="/spuriousDataContext/item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ba273de-7d47-4514-a4cf-915c0c60f4fa" absoluteBounds="0.515, 4.835, 1.9700000000000002, 26.7869873046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="16f45acb-8dbd-450b-a796-54e7e2d170a8" absoluteBounds="11.75, 4.375, 2, 19.078025716145834">
+      <DataClassMoniker Name="/spuriousDataContext/quest" />
+      <nestedChildShapes>
+        <elementListCompartment Id="73d7e710-916c-4b58-b278-3c575b973abd" absoluteBounds="11.765, 4.835, 1.9700000000000002, 18.518025716145832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6ce2df8-0c15-45fc-81e9-92968574365f" absoluteBounds="12, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/spuriousDataContext/queststarter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="23696d32-c2ce-41e2-adb4-7db88093a08f" absoluteBounds="12.015, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4bb61d4-2029-45dc-ac37-38a2e43d8073" absoluteBounds="9.625, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/spuriousDataContext/questfinisher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9dd91c7c-4734-433d-b09b-11638c6484d6" absoluteBounds="9.64, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94d95010-61fc-4cdb-80e8-9172fa15c775" absoluteBounds="14.25, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/spuriousDataContext/battleground_battlemaster" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96530b3d-8422-4479-9775-b52d70c789fd" absoluteBounds="14.265, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b91c2822-33b4-494b-b79d-40dfda61e0ff" absoluteBounds="14.125, 4.375, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/spuriousDataContext/battleground_template" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b70bbc8b-3de3-4f30-9601-8d2e4c114701" absoluteBounds="14.14, 4.835, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="af2f7e18-efa8-49e3-b943-7e8b4aa8ed69" absoluteBounds="0.625, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/spuriousDataContext/areatrigger_involvedrelation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="92fedaa2-b85a-4c01-b2c3-105ea4cfdf7e" absoluteBounds="0.64, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="09669f52-a998-4ada-8c78-f14172ff7483" absoluteBounds="3.125, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/spuriousDataContext/areatrigger_tavern" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a1d9165-7561-44eb-a721-71f80edb74f3" absoluteBounds="3.14, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa72aa45-2c8f-46d2-af6a-dff225131f85" absoluteBounds="5.75, 0.5, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/spuriousDataContext/areatrigger_teleport" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2dbc7508-ed33-4cd5-8438-616d055f2b1d" absoluteBounds="5.765, 0.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b4820d7-1ea3-479f-b5c1-173fd7871da1" absoluteBounds="0.625, 1.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/spells_teleport_coord" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e32375b-0555-4d4c-88c4-6716148b942f" absoluteBounds="0.64, 2.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56be94c0-9cd9-4b51-b28d-1e813f9e24dc" absoluteBounds="5.125, 9.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/spuriousDataContext/npc_gossip_textid" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b349e3a6-676f-41a8-b67b-f5dd0a26755b" absoluteBounds="5.14, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8e4f212f-e70e-41a1-bfe1-f10a276ac68d" absoluteBounds="7.375, 11.125, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/spuriousDataContext/npc_monstersay" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9596fe0-71a3-4f4b-be54-2e1cfd452709" absoluteBounds="7.39, 11.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b32a5c8e-b8a6-4c19-9ef5-5ab01096cc91" absoluteBounds="5.25, 13.875, 2, 16.385805664062502">
+      <DataClassMoniker Name="/spuriousDataContext/npctext" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49620a98-a5fa-4e41-9958-4f25f962c10b" absoluteBounds="5.265, 14.335, 1.9700000000000002, 15.8258056640625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c03d8052-2bd1-4fda-9e85-ac05a4b1934a" absoluteBounds="9.5, 8.25, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/spuriousDataContext/weather" />
+      <nestedChildShapes>
+        <elementListCompartment Id="200b788d-0a4a-4695-8784-e4314beafadd" absoluteBounds="9.515, 8.71, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4847c4c1-0b02-4e95-896c-89d946d8b547" absoluteBounds="9.625, 11.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/spuriousDataContext/itempage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="52b4ba32-f29f-4111-a74a-fe5d0015abfb" absoluteBounds="9.64, 12.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cad36946-60c7-4527-831a-1e9970873520" absoluteBounds="7.625, 14.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/spuriousDataContext/itempetfood" />
+      <nestedChildShapes>
+        <elementListCompartment Id="64981f90-8c8d-4a22-8d09-aae19744b9a2" absoluteBounds="7.64, 14.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42f98d8d-2894-44bc-96ce-48a50512c773" absoluteBounds="2.75, 18.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/loots_skinning" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e66bc7d-6ecc-4c3e-9e21-18641eef24db" absoluteBounds="2.765, 18.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="50d61244-81fb-49dd-bbd7-3571360fb7db" absoluteBounds="2.875, 26.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/itemloot" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c5d2569-5f0e-4e64-b436-7381f5791984" absoluteBounds="2.89, 26.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd19e9e3-e365-4dfb-955b-9cd5d86f765d" absoluteBounds="2.875, 2, 2, 15.616599934895834">
+      <DataClassMoniker Name="/spuriousDataContext/creature" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0760bd84-6127-4d44-9212-27d07ed4cbb8" absoluteBounds="2.89, 2.46, 1.9700000000000002, 15.056599934895832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="643152a9-2fab-48b5-ae12-d33827efe970" absoluteBounds="5.125, 11.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/npc_vendor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec671ee5-6d9d-467b-93ce-9657544cbff2" absoluteBounds="5.14, 11.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b27739c-b06a-4a3e-bdb2-7f45910d848e" absoluteBounds="0.5, 32.375, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/spuriousDataContext/playercreateinfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f82e97fe-246d-49ae-a697-403f68fb39bb" absoluteBounds="0.515, 32.835, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32b757ef-df71-434d-8501-d8879632e41e" absoluteBounds="3.625, 33.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/spuriousDataContext/playercreateinfo_item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e707b7c4-9106-4c2d-a414-7113cbf473f6" absoluteBounds="3.64, 33.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="84516228-4842-4769-b2e3-568c6786965e" absoluteBounds="3.75, 35.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/spuriousDataContext/playercreateinfo_skill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70a0755a-5776-4490-98aa-8009ee8c3300" absoluteBounds="3.765, 35.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="75bbaae2-1223-4565-a153-ec1cc57b72bf" absoluteBounds="3.625, 31, 2, 1.9631982421875">
+      <DataClassMoniker Name="/spuriousDataContext/playercreateinfo_bar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e6816d6-4fb1-4f3c-b405-4700832be10b" absoluteBounds="3.64, 31.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de2fe885-d9af-4ca3-a1cd-41168c44d4ce" absoluteBounds="6.375, 31.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/spuriousDataContext/playercreateinfo_spell" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33a032a8-43de-4f58-8e90-1a657bea1a9f" absoluteBounds="6.39, 31.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="44e3cf8e-e129-4680-a8ad-f1846ff5fbe4" absoluteBounds="2.75, 20.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/loots_gameobject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c033c4ac-1567-4e02-8140-470385edf502" absoluteBounds="2.765, 21.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2d0b315c-b3aa-49b6-8642-6efc0a548d81" absoluteBounds="2.875, 23.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/spuriousDataContext/loot" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0a545dc-e91e-4766-938d-82d5e9d8a96f" absoluteBounds="2.89, 23.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6eeaeaf-1697-48e4-b136-8c8f7c08597d" absoluteBounds="7.75, 16, 2, 2.5401025390625">
+      <DataClassMoniker Name="/spuriousDataContext/creature_movement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0bedcaa0-4162-41b2-8da9-e9a8a7c7c78f" absoluteBounds="7.765, 16.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
