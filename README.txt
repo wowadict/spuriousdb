@@ -1,6 +1,6 @@
 On September 01 2013 the Spurious project officially merged with the MangosVB project.
 
-Further development of this emulator will continue at https://github.com/mangosvb
+Further development of this emulator will continue at https://github.com/mangosvb/databaseOne
 
 The archive files are named with the client version number on them. ### represents the client version in the naming scheme.
 
